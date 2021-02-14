@@ -1,4 +1,4 @@
-package com.annguyenhoang.utils
+package com.annguyenhoang.imagesearchapp.utils
 
 import com.annguyenhoang.imagesearchapp.BuildConfig
 

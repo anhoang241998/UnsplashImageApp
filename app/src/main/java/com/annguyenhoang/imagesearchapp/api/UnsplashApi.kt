@@ -1,6 +1,6 @@
-package com.annguyenhoang.api
+package com.annguyenhoang.imagesearchapp.api
 
-import com.annguyenhoang.utils.Constant.CLIENT_ID
+import com.annguyenhoang.imagesearchapp.utils.Constant.CLIENT_ID
 import retrofit2.http.GET
 import retrofit2.http.Headers
 import retrofit2.http.Query

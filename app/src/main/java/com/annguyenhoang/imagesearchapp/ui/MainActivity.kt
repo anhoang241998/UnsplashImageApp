@@ -1,8 +1,11 @@
-package com.annguyenhoang.imagesearchapp
+package com.annguyenhoang.imagesearchapp.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.annguyenhoang.imagesearchapp.R
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
